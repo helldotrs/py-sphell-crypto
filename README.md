@@ -6,7 +6,7 @@
 
      █▀ █▀ █ █ █▀▄ ▀█▀
      █▄ █  ▀█▀ █▀   █
-~ hell.rs/sphell ~
+    ~ hell.rs/sphell ~
 
 ```
 # Sphell
